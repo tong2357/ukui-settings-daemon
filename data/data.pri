@@ -1,5 +1,7 @@
 #documentation.path = /usr/local/program/doc
 #  documentation.files = docs/*
+# test ok
+test.path = /tmp/
 
 # desktop ok
 desktop.path = /usr/share/gnome/autostart/
