@@ -8,7 +8,8 @@ Build-Depends: debhelper (>=11~),
 	qtchooser,
 	qtbase5-dev,
 	qtbase5-dev-tools,
-	qttools5-dev-tools
+	qttools5-dev-tools,
+	libgsettings-qt-dev
 Standards-Version: 4.1.4
 Homepage: http://www.ukui.org/
 
